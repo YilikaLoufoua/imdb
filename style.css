@@ -2,6 +2,11 @@ body {
     background: #121212;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 #search-bar {
     margin-left: 20vw;
     display: flex;
